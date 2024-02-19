@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs,pytorch,tensorflow,pandas" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs,pytorch,tensorflow" />
     <img src="https://skillicons.dev/icons?i=bootstrap,vscode,postman" />
   </a>
          
